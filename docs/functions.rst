@@ -48,6 +48,7 @@ Functions
 - ``MOL_FROM_SMILES``
 - ``MOL_FROM_SMARTS``
 - ``MOL_FROM_CTAB``
+- ``MOL_TO_SVG``
 - ``QMOL``
 - ``QMOL_FROM_SMILES``
 - ``QMOL_FROM_SMARTS``
